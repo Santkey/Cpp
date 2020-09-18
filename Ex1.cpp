@@ -2,13 +2,8 @@
 
 using namespace std;
 
-int i = 10;
 int main()
 {
-    if(i>1)
-    {
-    cout << "Hello World!" <<;
-    i--;}
-  
+    cout << "Hello World!" << endl;
     return 0;
 }
